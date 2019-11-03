@@ -6,6 +6,13 @@ using File = System.IO.File;
 
 namespace SingleResponsibilityPrinciple
 {
+    /**
+     * Added my changes to Git
+     * 
+     * @author William Dixon
+     * @version Assignment part 2
+     */
+
     public class ConsoleLogger : ILogger
     {
         public void LogWarning(string message, params object[] args)

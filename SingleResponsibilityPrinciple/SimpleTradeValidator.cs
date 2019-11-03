@@ -1,6 +1,14 @@
 ﻿
 using SingleResponsibilityPrinciple.Contracts;
 
+/**
+     * Added my changes to Git
+     * 
+     * @author William Dixon
+     * @version Assignment part 2
+     */
+
+
 namespace SingleResponsibilityPrinciple
 {
     public class SimpleTradeValidator : ITradeValidator
